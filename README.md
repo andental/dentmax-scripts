@@ -55,6 +55,7 @@ Get total sum of cash received by patient from `Export - doklady` from https://z
 #### Example
 
 ```
+Patient Cash Report:
 Podhradská Jana|900.0
 Baláž Ondrej|830.0
 Rutšek Milan|680.0
@@ -70,4 +71,13 @@ Osacká Linda|415.0
 Kiko Roman|412.5
 Ciferský Ján|390.0
 Tinath Samuel|380.0
+
+Daily Cash Report:
+2020-11-06|1|35.0
+2020-11-10|2|105.0
+2020-11-11|5|280.0
+2020-11-12|6|355.0
+2020-11-13|3|195.0
+2020-11-16|3|185.0
+2020-11-18|3|295.0
 ```
