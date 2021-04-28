@@ -11,5 +11,10 @@ echo "Daily Cash Report:"
 echo "$transformed" | termsql -d ";" "SELECT date(col2),COUNT(col10) As Performances,SUM(col10) As DailyPrice FROM tbl GROUP BY col2"
 
 echo ""
+echo "Weekly Cash Report:"
+echo "$transformed" | termsql -d ";" "SELECT date(col2,'weekday 0', '-6 days'),COUNT(col10) As Performances,SUM(col10) As DailyPrice FROM tbl GROUP BY date(col2,'weekday 0', '-6 days')"
+
+
+echo ""
 echo "Monthly Cash Report:"
 echo "$transformed" | termsql -d ";" "SELECT date(col2,'start of month'),COUNT(col10) As Performances,SUM(col10) As DailyPrice FROM tbl GROUP BY date(col2,'start of month')"
