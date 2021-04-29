@@ -56,22 +56,22 @@ Get total sum of cash received by patient from `Export - doklady` from https://z
 
 ```
 Patient Cash Report:
-Name|Total
-Podhradská Jana|900.0
-Baláž Ondrej|830.0
-Rutšek Milan|680.0
-Ikerová Anna|645.6
-Šinský Matúš|545.5
-Horváthová Hana|510.0
-Bencko Milan|500.0
-Chmeľ Ján|475.0
-Kučerová Renáta|440.0
-Salak Peter|435.0
-Magát Jakub|420.0
-Osacká Linda|415.0
-Kiko Roman|412.5
-Ciferský Ján|390.0
-Tinath Samuel|380.0
+Name|Performances|Total
+Podhradská Jana|10|900.0
+Baláž Ondrej|11|830.0
+Rutšek Milan|7|680.0
+Ikerová Anna|3|645.6
+Šinský Matúš|6|545.5
+Horváthová Hana|4|510.0
+Bencko Milan|5|500.0
+Chmeľ Ján|6|475.0
+Kučerová Renáta|6|440.0
+Salak Peter|7|435.0
+Magát Jakub|6|420.0
+Osacká Linda|6|415.0
+Kiko Roman|6|412.5
+Ciferský Ján|1|390.0
+Tinath Samuel|2|380.0
 
 Daily Cash Report:
 Day|Performances|Total
