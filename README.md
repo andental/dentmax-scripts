@@ -27,16 +27,17 @@ Get total count of procedure performances from `Export - výkony` from https://z
 #### Example
 
 ```
-V48|Osadenie Kofferdamovej blany.|43
-N03|Odstránenie zubného kameňa - 1 sextant|37
-A02|Injekčná anestézia|34
-V06|L16 Fotokompozit - dve plôšky.|24
-V05|L17 Fotokompozit - jedna plôška.|23
-N50|Optragate.|18
-V07|L25 Fotokompozit - tri plôšky.|16
-V31|L46 Paliatívne endodontické ošetrenie|9
-V20|L46 Dočasné ošetrenie hlbokého zubného kazu.|8
-D02|Preventívna stomatologická prehliadka.|6
+Code|Name|UnitPrice|TotalPerformances
+V48|Osadenie Kofferdamovej blany.|15|46
+N03|Odstránenie zubného kameňa - 1 sextant|10|39
+A02|Injekčná anestézia|10|37
+V06|L16 Fotokompozit - dve plôšky.|50|27
+V05|L17 Fotokompozit - jedna plôška.|40|25
+N50|Optragate.|5|21
+V07|L25 Fotokompozit - tri plôšky.|0|17
+V31|L46 Paliatívne endodontické ošetrenie|20|9
+V20|L46 Dočasné ošetrenie hlbokého zubného kazu.|0|8
+D02|Preventívna stomatologická prehliadka.|15|7
 ```
 
 ### Patient report
