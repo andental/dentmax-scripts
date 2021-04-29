@@ -56,6 +56,7 @@ Get total sum of cash received by patient from `Export - doklady` from https://z
 
 ```
 Patient Cash Report:
+Name|Total
 Podhradská Jana|900.0
 Baláž Ondrej|830.0
 Rutšek Milan|680.0
@@ -73,6 +74,7 @@ Ciferský Ján|390.0
 Tinath Samuel|380.0
 
 Daily Cash Report:
+Day|Performances|Total
 2020-11-06|1|35.0
 2020-11-10|2|105.0
 2020-11-11|5|280.0
@@ -82,14 +84,16 @@ Daily Cash Report:
 2020-11-18|3|295.0
 
 Weekly Cash Report:
-2020-11-02|1|35.0
-2020-11-09|16|935.0
-2020-11-16|15|1005.0
-2020-11-23|20|797.5
-2020-11-30|24|1557.0
+Week|WorkingDays|Performances|Total
+2020-11-02|1|1|35.0
+2020-11-09|4|16|935.0
+2020-11-16|4|15|1005.0
+2020-11-23|5|20|797.5
+2020-11-30|5|24|1557.0
 
 Monthly Cash Report:
-2020-11-01|56|3037.5
-2020-12-01|86|5255.0
-2021-01-01|85|5535.0
+Month|WorkingDays|Performances|Total
+2020-11-01|15|56|3037.5
+2020-12-01|19|86|5255.0
+2021-01-01|19|85|5535.0
 ```
