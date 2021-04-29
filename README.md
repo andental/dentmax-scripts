@@ -96,4 +96,28 @@ Month|WorkingDays|Performances|Total
 2020-11-01|15|56|3037.5
 2020-12-01|19|86|5255.0
 2021-01-01|19|85|5535.0
+
+First Visits Daily Report:
+Day|FirstVisits
+2020-11-06|1
+2020-11-10|2
+2020-11-11|5
+2020-11-12|6
+2020-11-13|2
+2020-11-16|3
+2020-11-18|3
+
+First Visits Weekly Report:
+Week|FirstVisits
+2020-11-02|1
+2020-11-09|15
+2020-11-16|9
+2020-11-23|18
+2020-11-30|18
+
+First Visits Monthly Report:
+Month|FirstVisits
+2020-11-01|46
+2020-12-01|56
+2021-01-01|36
 ```
